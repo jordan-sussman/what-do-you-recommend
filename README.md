@@ -8,3 +8,7 @@ Built with:
 - Python
 - TasteDive API
 ```
+To get recommendations:
+```
+- Open app.py and run
+```
